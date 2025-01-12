@@ -1,0 +1,2253 @@
+[
+    {
+        "dialogue_id": "7_00000",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "New York",
+                    "date": "2019-03-10",
+                    "subcategory": "Baseball"
+                }
+            }
+        },
+        "user_utterance": [
+            "I need help finding local events.",
+            "Anaheim, CA and I like Baseball Games.",
+            "How about something around NY on the 10th?",
+            "Do you have anything else?",
+            "What is the address for this game?",
+            "I want to go to this.",
+            "Not now, that is all I need."
+        ],
+        "system_utterance": [
+            "Is there a preference city?",
+            "Next Wednesday at 7:30 pm is Angels Vs Astros at Angel Stadium of Anaheim.",
+            "On March 10th at 7:30 pm I have Mets Vs Braves at Citi Field.",
+            "On March 10th at 7 pm I have Mets Vs Diamondbacks at Citi Field.",
+            "The address is 123-01 Roosevelt Avenue.",
+            "Do you want tickets?",
+            "Have a great day then."
+        ]
+    },
+    {
+        "dialogue_id": "7_00001",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "Los Angeles",
+                    "date": "2019-03-11",
+                    "subcategory": "Jazz"
+                }
+            }
+        },
+        "user_utterance": [
+            "i wish to deviate my self from my normal routine work . so will you find me some interesting events?",
+            "I like music events and it should be around LAX.Find whether any events happening according to my interest?",
+            "Ok thats great. Whether can you find me some other events? Find events on March 11th and any Jazz type of events?",
+            "Thats suite me and thank you very much"
+        ],
+        "system_utterance": [
+            "Which category of events i need to search for? In which city i should search in?",
+            "there are 10 events according to your interest. The event name is Bill Callahan, taking place at Lodge Room and event venue date is on tomorrow at 8:30 pm",
+            "Another event name is Jordan Rakei, taking place at Regent Theater DTLA and the venue date on March 11th at 8:30 pm",
+            "Take care have a good day"
+        ]
+    },
+    {
+        "dialogue_id": "7_00002",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "New York",
+                    "date": "2019-03-14",
+                    "subcategory": "Pop"
+                }
+            }
+        },
+        "user_utterance": [
+            "Could you help me finding some interesting events, please?",
+            "I'm looking for events around the city of New York",
+            "I'd like to go to a concert",
+            "I like this one but could you also find me some other event please?",
+            "I like this one as well but could you find me some pop event on the 14th of march?",
+            "That's perfect",
+            "No, I don't, thanks",
+            "No thanks, that's all"
+        ],
+        "system_utterance": [
+            "Is there any particular city I should look at?",
+            "Is there any kind of event you prefer?",
+            "There's an event called Amber Run Brooklyn taking place at Warsaw on march 14th at 6 pm",
+            "Americo, at La Boom is another event taking place next Wednesday at 6:30 pm",
+            "Jojo Siwa, at Forest Hills Stadium is on march 14th at 6 pm",
+            "Do you need tickets for the event?",
+            "Is there anything else I can do for you?",
+            "Haeive a good day"
+        ]
+    },
+    {
+        "dialogue_id": "7_00003",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "New York",
+                    "date": "2019-03-14"
+                }
+            }
+        },
+        "user_utterance": [
+            "Could you assist me in looking for interesting activities? I'm searching for activities near New York on the 14th of this month.",
+            "I enjoy games activities.",
+            "That sounds perfect.",
+            "Nah, maybe later.",
+            "No, thank you for your assistance."
+        ],
+        "system_utterance": [
+            "Is there a type of event you prefer? You could say music, sports, or something else.",
+            "I discovered 10 activities you'll enjoy. There is a Mets vs Cubs event occuring at Citi field on 7 pm of March 14th.",
+            "Would you like to purchase tickets for the activity?",
+            "Could I assist you with something else?",
+            "Have a pleasant afternoon."
+        ]
+    },
+    {
+        "dialogue_id": "7_00004",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "Los Angeles",
+                    "date": "2019-03-03",
+                    "subcategory": "American Football"
+                }
+            }
+        },
+        "user_utterance": [
+            "Can you help me find a really awesome event.",
+            "In LA and a good sports event.",
+            "I want to see and American Football game on the 3rd.",
+            "That sounds awesome.",
+            "No not now.",
+            "No that will be all."
+        ],
+        "system_utterance": [
+            "What city would like the event to be in and wht kind of event would you like?",
+            "What about the Dodgers VS Cubs at Dodger Stadium on March 12th at 8:30 pm.",
+            "I have 4 options for you. How about the Rams Vs Cardinals at LA Memorial Coliseum on the day after tomorrow at 6:30 pm.",
+            "Would you like to purchase tickets?",
+            "IS there anything else I can help you with?",
+            "Have a fantastic day!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00005",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "Atlanta"
+                }
+            }
+        },
+        "user_utterance": [
+            "I want to go to an event.",
+            "I am looking for a music event in Atlanta.",
+            "I want to know more.",
+            "That is good, but what else is available?",
+            "That is perfect."
+        ],
+        "system_utterance": [
+            "What kind of event are you looking for? Which city are you looking in?",
+            "I found 7 events including the Atlanta Summer Organ Festival at Peachtree Road United Methodist Church next Tuesday at 8:30 pm.",
+            "It is a classical music event.",
+            "There is a Bonobo concert at Ravine next Thursday at 7 pm.",
+            "See you soon!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00006",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "Vancouver",
+                    "date": "2019-03-14"
+                }
+            }
+        },
+        "user_utterance": [
+            "Hi there, could you help me search for some interesting events?",
+            "I prefer something in Vancouver held on the 14th.",
+            "I don't mind concert events, they are nice.",
+            "That sounds great!",
+            "Not right now, thanks!",
+            "Nope, thanks for your help!"
+        ],
+        "system_utterance": [
+            "Sure, do you have any preference for the location of the event?",
+            "Do you have any preferred type of events?",
+            "There is a Smokey Robinson event taking place a PNE Amphitheatre which is happening on March 14th at 7 pm.",
+            "Would you like me to purchase the tickets for you?",
+            "Do you require further assistance?",
+            "Sure, have a great day ahead!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00007",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "Phoenix",
+                    "subcategory": "Baseball"
+                }
+            }
+        },
+        "user_utterance": [
+            "Can you help me find a baseball match event?",
+            "I'm looking for events near Phoenix, AZ.",
+            "That sounds good.",
+            "No. Thanks a lot for your help."
+        ],
+        "system_utterance": [
+            "What city should I search in?",
+            "How about Arizona Vs La Dodgers at Chase Field today at 6 pm?",
+            "Can I help you with anything else?",
+            "You're welcome. Have a great day!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00008",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "Stanford",
+                    "date": "2019-03-09",
+                    "subcategory": "American Football"
+                }
+            }
+        },
+        "user_utterance": [
+            "Can you find me some events?",
+            "I want to find events around LAX.",
+            "I want to find a match.",
+            "Great. Can you find some other events on March 9th?",
+            "Sounds good. Can you find some other events? I want to find American Football events near Stanford.",
+            "Sounds good, thanks.",
+            "No, maybe later."
+        ],
+        "system_utterance": [
+            "What city would you like to look in?",
+            "What kind of events are you looking for? Music, sports, etc.",
+            "There is an event on March 12th at 8:30 pm. The event is Dodgers Vs Cubs at Dodger Stadium.",
+            "There are 6 events that match you request. There is an event on March 9th at 7:30 pm. The event is Dodgers Vs Giants at Dodger Stadium.",
+            "I found 1 event that matches your request. The event is Cardinal Vs Wildcats at Stanford Stadium on March 9th at 6 pm.",
+            "Do you want to purchase tickets?",
+            "Have a good day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00009",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "Philadelphia"
+                }
+            }
+        },
+        "user_utterance": [
+            "I need you to find me some events that appeal to me.",
+            "I am interested in Match events in Philadelphia.",
+            "Yes, that is nice, but what else do you have?",
+            "Can you give me more info about this event along with the address?",
+            "That will work for me.",
+            "No, that is all. Thanks."
+        ],
+        "system_utterance": [
+            "What city do you want and what type of events do you like?",
+            "Search revealed 10 results. Do you like Eagles Vs Cowboys on March 14th at 8 pm at Lincoln Financial field?",
+            "I found Owls Vs Bison taking place a day after tomorrow at 7:30 pm at Lincoln Financial Field.",
+            "The event is American Football and the address is 1 Lincoln Financial Field Way.",
+            "Shall I buy tickets for you?",
+            "Have a wonderful day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00010",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "Chicago",
+                    "date": "2019-03-06"
+                }
+            }
+        },
+        "user_utterance": [
+            "Could you help me find some interesting events near me?",
+            "I'm looking for events around Chi-town.",
+            "I would like to find games near me.",
+            "That sounds good but could you find me a different event? I would prefer something on the 6th.",
+            "That also sounds good. Do you have anything else?",
+            "That sounds great to me.",
+            "No, not right now.",
+            "No. Thanks a lot for the help."
+        ],
+        "system_utterance": [
+            "Certainly. What city would you like me to search in?",
+            "Are you looking for any type of event in particular such as music, sports, or anything else?",
+            "I have found 10 events I think you'll like. One event is Cubs Vs Brewers at Wrigley Field. The event takes place next Wednesday at 6:30 pm.",
+            "I've found 5 events that match what you're looking for. There is a Cubs Vs Giants game at Wrigley Field taking place next Wednesday starting at 7:30 pm.",
+            "There is a White Sox Vs Astros game at Guaranteed Rate Field taking place next Wednesday at 6:30 pm.",
+            "Would you like to buy tickets for this event?",
+            "Very well. Is there anything else I can do for you?",
+            "You're welcome. Have a great day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00011",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "Los Angeles",
+                    "date": "2019-03-06",
+                    "subcategory": "Basketball"
+                }
+            }
+        },
+        "user_utterance": [
+            "I'm bored out of my mind, and would like help finding interesting events.",
+            "Games events make me happy.",
+            "Please find events around LAX.",
+            "These are good teams to watch, but I'd like to hear your other event recommendations before deciding.",
+            "These are good teams to watch, but I won't be available on the 7th. Could you please find out whether one of my favorite events, Basketball, is available on the 6th?",
+            "That sounds perfect! That will be all."
+        ],
+        "system_utterance": [
+            "Do you have a particular preference? You can say something like Music or Sports, or any other event.",
+            "Which city should I search in?",
+            "Dodgers Vs Cubs game kicks off at Dodger Stadium on March 12th, at 8:30 pm.",
+            "Okay, another game taking place on March 12th at 7 pm at Dodger Stadium is the Dodgers Vs Diamondbacks.",
+            "Okay, no problem. I have found 2 events you might like. There's a Sparks Vs Mystics game at Staples Center next Wednesday, at 8 pm.",
+            "Have a nice day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00012",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "San Francisco",
+                    "date": "2019-03-05"
+                }
+            }
+        },
+        "user_utterance": [
+            "I will be in San Francisco soon and I was wondering what there is interesting to do when I get there.",
+            "I want to go to a sports event on the 5th of March.",
+            "That would be awesome. That's all."
+        ],
+        "system_utterance": [
+            "Are you interested in Music or Sports or anything else?",
+            "The Giants vs Brewers would be playing at Oracle Park next Tuesday at 7 pm",
+            "Enjoy your day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00013",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "San Diego"
+                }
+            }
+        },
+        "user_utterance": [
+            "I would like to find a really awesome event.",
+            "I want to go to a Concert.",
+            "I want it to be around SD.",
+            "That is good.",
+            "Not at this time.",
+            "No that will be all."
+        ],
+        "system_utterance": [
+            "Would you like Music or Sports or something else?",
+            "What city would you like to see it in?",
+            "How about Alejandro Sanz at Cal Coast Credit Union Amphitheater next Wednesday at 6:30 pm.",
+            "Would you like to purchase tickets for it?",
+            "Is there anything else I can help you with?",
+            "Have a fantastic day!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00014",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "Atlanta",
+                    "date": "2019-03-10"
+                }
+            }
+        },
+        "user_utterance": [
+            "I would like you to help me in finding an event around Toronto, Ontario for next wednesday.",
+            "I'm a fan of Sports events.",
+            "I don't mind it but please, look for more on the 10th of this month.",
+            "Not bad but do me a favor, look for events around Atlanta right now.",
+            "Mmmmm, I'm intrigued. Where will it happen?",
+            "Me likey. You can go now."
+        ],
+        "system_utterance": [
+            "Do you have any particular category in mind? I mean something like Music or Sports...",
+            "I can let you be part of Blue Jays Vs Astros at Rogers Centre next wednesday at 8:30 pm, how do you feel about it?",
+            "There are 4 more options. You can watch the Blue Jays Vs braves at Rogers Centre on march 10th at 8:30 pm",
+            "Okay, you can join the show taking place at Mercedes-benz stadium on March 10th at 7 pm, it's the Falcons Vs Jaguars.",
+            "The place is in 1 AMB Drive Northwest and it is American Football.",
+            "Bye"
+        ]
+    },
+    {
+        "dialogue_id": "7_00015",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "Berkeley"
+                }
+            }
+        },
+        "user_utterance": [
+            "I am looking for some interesting events.",
+            "Search for the events around SFO.",
+            "My preferred category is Concert event.",
+            "Can you find me the venue please?",
+            "Okay, Can you find me some other event around Berkeley?",
+            "Okay, That sounds great.",
+            "NO. That will be all. Thank you."
+        ],
+        "system_utterance": [
+            "Which city do you want me to search in?",
+            "What is your preferred category of event like Music or Sports or anything else?",
+            "There is an event called Allan Rayman at August Hall on March 9th at 6 pm.",
+            "The address of the venue is 420 Mason Street.",
+            "There is an event called Berkeley World Music Festival at 2500 Durant Ave on March 11th at 6:30 pm.",
+            "Would you like to buy me the tickets for you?",
+            "I am glad I could help. Have a nice day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00016",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "Washington D.C.",
+                    "subcategory": "Baseball"
+                }
+            }
+        },
+        "user_utterance": [
+            "Can you find me some events around the District of Columbia?",
+            "I want a games event.",
+            "Could you give me something different? I want to watch baseball.",
+            "What's the address for Nationals Park?",
+            "Cheers. Sounds good.",
+            "Maybe later. Not right now.",
+            "No, that's it, thanks."
+        ],
+        "system_utterance": [
+            "What type of event are you thinking of?",
+            "I have found you 10 possible events that you might like. The first is DC United Vs Revolution at Audi Field. It's tomorrow at 8:30 pm.",
+            "I've got Nationals Vs Braves at Nationals Park. It's on March 12th at 8 pm.",
+            "It is 1500 South Capitol Street Southeast.",
+            "Do you want me to buy you tickets?",
+            "Is there anything else?",
+            "Have a wonderful day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00017",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "New York",
+                    "subcategory": "Blues"
+                }
+            }
+        },
+        "user_utterance": [
+            "Hi, I'd like to find some interesting events.",
+            "New York, please.",
+            "Yes, music event and more specifically the blues.",
+            "What's the address?",
+            "Hmm, what else is there? I have open availability.",
+            "No, what else is there?",
+            "Where are they located?",
+            "Perfect, thanks."
+        ],
+        "system_utterance": [
+            "Sure, which city were you interested in?",
+            "Is there a specific category of events you want?",
+            "Ok, I've found a Ben Harper event on March 9th at 6 pm taking place on Pier 17.",
+            "89 South Street.",
+            "There's 6 events I found. How about a Buddy Guy event at Sony Hall around 7:30 pm on March 10th?",
+            "Ok, there's a Greensky Bluegrass playing next Thursday at 8 pm on Pier 17.",
+            "89 South Street.",
+            "Have a wonderful day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00018",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "Sacramento",
+                    "subcategory": "Electronica"
+                }
+            }
+        },
+        "user_utterance": [
+            "Can you help me find an interesting event?",
+            "I'd like an event around Sacramento. I enjoy Concert events, especially Electronica ones.",
+            "What's the address for the venue?",
+            "Sounds good. That's all I wanted, thanks."
+        ],
+        "system_utterance": [
+            "What city should I search in? What category of events would you prefer?",
+            "There's an event called Yunger that takes place the day after tomorrow at 6:30 pm. It will be at Holy Diver.",
+            "The address is 1517 21st Street.",
+            "Have a nice day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00019",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "Los Angeles",
+                    "date": "2019-03-06"
+                }
+            }
+        },
+        "user_utterance": [
+            "I want to find some events on the 6th, can you help me to find some interesting events?",
+            "Yes, Music is the best choice, please search event on this category.",
+            "Yes, please search for some nice music events around LAX",
+            "I want to know further details about this event.",
+            "Yes, I think so, but I need something else to find.",
+            "Please let me know more about this event like the venue and so on.",
+            "Looks nice, but I need something else.",
+            "This will be a perfect one for me. Thanks, that's all I want now."
+        ],
+        "system_utterance": [
+            "Yes, let me know your interest like Music or Sports or anyother events that suit to you.",
+            "Do you have any preferred City to search for?",
+            "Found 5 results. One is Girl In Red which will take place at The Teragram Ballroom on next Wednesday at 8:30 pm. Is it okay?",
+            "It is a pop type event and It will be a good one to you.",
+            "Another one event named Gloryhammer will be at 1720(tm) on next Wednesday and starts at 8 pm. Is this the one are you looking for?",
+            "It is a Rock category event and the venue is located at 1720 East 16th Street.",
+            "Kishi Bashi event taking place at Masonic Lodge at Hollywood Forever on next Wednesday at 8:30 pm.",
+            "Have a good day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00020",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "Washington D.C."
+                }
+            }
+        },
+        "user_utterance": [
+            "Can you find some events? I'm looking for games.",
+            "I want to find events around Washington.",
+            "Sounds good, that's all."
+        ],
+        "system_utterance": [
+            "What city would you like to look in?",
+            "I found 10 events. There is an event tomorrow at 8:30 pm at Audi Field. The event is Dc United Vs Revolution.",
+            "Have a good day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00021",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "Portland"
+                }
+            }
+        },
+        "user_utterance": [
+            "Hi, I need something to do. Can you look for events around Portland?",
+            "I'd like to go to a concert.",
+            "That sounds fun.",
+            "Not at this time.",
+            "That will be all, thanks."
+        ],
+        "system_utterance": [
+            "Is there any event in particular?",
+            "I managed to find 7 events I think you'll enjoy. How about seeing Bryan Adams at Theater Of The clouds? The concert is tomorrow and starts at 8:30 pm.",
+            "Should I buy tickets for the concert?",
+            "Anything else you need?",
+            "Enjoy your day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00022",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "Chicago"
+                }
+            }
+        },
+        "user_utterance": [
+            "I would like to find an interesting event",
+            "In the Chicago area",
+            "I'd like to see a Concert event",
+            "I would like to know more. What is the adress?",
+            "Ok, It's perfect for me!"
+        ],
+        "system_utterance": [
+            "Which city would you like to find it in?",
+            "Would you like Music, Sports or anything else?",
+            "There are 5 events, one of these is Basta, at Concord Music Hall, on March 10th at 8:30 pm",
+            "It's a Pop event. Its address is 2047 North Milwaukee Avenue",
+            "Have a nice day!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00023",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "Chicago"
+                }
+            }
+        },
+        "user_utterance": [
+            "Can you help me find an event going on around Chicago?",
+            "I like a nice concert. So, lets go with that.",
+            "That sounds good.",
+            "No, I don't want to right now. But, thank you for the information."
+        ],
+        "system_utterance": [
+            "Do you have a particular type of event you would like to go to, for example music or sports?",
+            "Okay, Basta is on at Concord Music Hall. The event is taking place on March 10th at 8:30 pm.",
+            "Do you want tickets for it?",
+            "No problem, have a good day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00024",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "New York",
+                    "date": "2019-03-08",
+                    "subcategory": "Rock"
+                }
+            }
+        },
+        "user_utterance": [
+            "Can you help me find some events?",
+            "Music events.",
+            "Around New York, any day is fine.",
+            "They're good, but what are the other events you found?",
+            "They're good too but can you find something that's rock on the 8th?",
+            "What's the address?",
+            "I like that one.",
+            "Not right now.",
+            "No, thanks for the help."
+        ],
+        "system_utterance": [
+            "Do you prefer a certain type of event?",
+            "Any particular city?",
+            "I found 10 events for you. One is Amber Run Brooklyn in Warsaw on March 14th at 6 pm.",
+            "One is Americo at La Boom next Wednesday at 6:30 pm.",
+            "There's Chemical Brothers at Forest Hills Stadium next Friday at 6:30 pm.",
+            "1 Tennis Place, Forest Hills.",
+            "Do you want tickets to it?",
+            "Can I help with anything else?",
+            "You're welcome."
+        ]
+    },
+    {
+        "dialogue_id": "7_00025",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "New York",
+                    "date": "2019-03-02"
+                }
+            }
+        },
+        "user_utterance": [
+            "Hi i need a help, i am Interested in events, I like match events, Could you find some events for me around NYC?",
+            "Ok, Could you find me another events? i am ok with any type of events.",
+            "Ok, could you find me another events on 2nd of March",
+            "Ok, What is the address of the venue?",
+            "that seems good for me, thank you very much for your help, That's all i need."
+        ],
+        "system_utterance": [
+            "Sure, I will help you, I found an event for you, The event is is mets Vs Braves located at Citi Field, The event date is March 13th and event begins at 6 pm",
+            "Sure, i found another event for you, The event is Mets Vs Cubs Locates at Citi Field, The event date is tomorrow at 7:30 pm",
+            "Sure, i got another event for you, The event is Mets Vs Dodgers Locates at Citi Field, The event date is tomorrow and event starting at 7 pm",
+            "The venue is 123-01 Roosevelt Avenue",
+            "you are welcome, Have a wonderful day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00026",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "Los Angeles"
+                }
+            }
+        },
+        "user_utterance": [
+            "I'm looking for events around Los Angeles.",
+            "I like music.",
+            "Sounds good.",
+            "No, that's all for now, thanks."
+        ],
+        "system_utterance": [
+            "Any category preference?",
+            "I found 10 events. There's Bill Callahan at Lodge Room tomorrow at 8:30 pm.",
+            "Do you want tickets?",
+            "You're welcome."
+        ]
+    },
+    {
+        "dialogue_id": "7_00027",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "Anaheim"
+                }
+            }
+        },
+        "user_utterance": [
+            "Could you help me find an interesting event to attend?",
+            "I like Match events.",
+            "Search around Anaheim.",
+            "What type of event is this?",
+            "That sounds great!",
+            "Not right now. That is all I need for now. Thank you."
+        ],
+        "system_utterance": [
+            "What type of events do you like?",
+            "What area would you prefer I search?",
+            "I found 7 events. How about Angels Vs Astros at Angel Stadium of Anaheim next Wednesday at 7:30 pm?",
+            "It is a Baseball event.",
+            "Would you like to buy tickets now?",
+            "My pleasure. Have a great day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00028",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "New York",
+                    "subcategory": "Hip Hop"
+                }
+            }
+        },
+        "user_utterance": [
+            "Hey, I'm so bored right now. Can you help me find an event or something?",
+            "Anything Music, can be at any day.",
+            "Around NYC. I love Hip Hop, if you can find any.",
+            "Sounds awesome.",
+            "No, not now.",
+            "No, that all. Thanks."
+        ],
+        "system_utterance": [
+            "What kind of events?",
+            "In which city?",
+            "Blackbear will be playing at Pier 17 on March 9th at around 6:30 pm.",
+            "Would you like to buy the tickets?",
+            "Can I assist you in anything else?",
+            "Have an amazing day,"
+        ]
+    },
+    {
+        "dialogue_id": "7_00029",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "Washington D.C."
+                }
+            }
+        },
+        "user_utterance": [
+            "Please help me find some events",
+            "I want to find an event in DC",
+            "I like going to Games events",
+            "That's good thanks"
+        ],
+        "system_utterance": [
+            "Where are you looking?",
+            "Ok, anything in particular? Music or Sports are options",
+            "I have 10 you'll enjoy, the first is Dc United Vs Revolution at the Audi Field, tomorrow at 8:30 pm",
+            "Ok, have a good day!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00030",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "London",
+                    "date": "2019-03-12"
+                }
+            }
+        },
+        "user_utterance": [
+            "I want to find some interesting events near London.",
+            "I prefer Concert venues.",
+            "That is okay, but can you find something else, specifically on the 12th of this month.",
+            "That will work. That is all for today."
+        ],
+        "system_utterance": [
+            "What type of events do you prefer?",
+            "I found Beyond The Black at the Boston Music Room playing today at 7:30 pm.",
+            "Search revealed 2 events. Crystal Lake is happening on March 12th at 7:30 pm at the Boston Music Room.",
+            "Have a wonderful day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00031",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "Berkeley",
+                    "subcategory": "Blues"
+                }
+            }
+        },
+        "user_utterance": [
+            "Get me a fun event, ok?",
+            "I want a blues concert in berkeley.",
+            "Perfect, you hit the jackpot. It'll do."
+        ],
+        "system_utterance": [
+            "Of course, what category please?",
+            "I got you a good one. Nattali Rize at Cornerstone Craft Beer & Live Music. It's on March 10th at 8:30 pm.",
+            "Enjoy the music."
+        ]
+    },
+    {
+        "dialogue_id": "7_00032",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Music",
+                    "city_of_event": "Phoenix"
+                }
+            }
+        },
+        "user_utterance": [
+            "Will you find me some interesting events in and around?",
+            "I like Concert events , because i love it.",
+            "In and around Phoenix city , find the events?",
+            "Ok good. Can you find me some other events?",
+            "ok good that suits me",
+            "No, Thanks, not now",
+            "No, thanks for your immense help"
+        ],
+        "system_utterance": [
+            "Which category of events i need to search for?",
+            "In which city i should search in ?",
+            "there are 8 events according to your taste. One is Anberlin at the Van Buren and the date is on march 10th at 7:30 pm",
+            "Event name is Dodie at the Van Buren and the date is on next wednesday at 6:30 pm",
+            "Want to buy tickets for this event?",
+            "Whether i need to help you in any other thing?",
+            "take care have a great day"
+        ]
+    },
+    {
+        "dialogue_id": "7_00033",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "FindEvents",
+                "parameters": {
+                    "category": "Sports",
+                    "city_of_event": "Portland",
+                    "date": "2019-03-01"
+                }
+            }
+        },
+        "user_utterance": [
+            "Please can you help me to search some interesting events?",
+            "I like Match events and looking for events in the city of Portland, OR",
+            "Can you tell me more about this event?",
+            "This is good. But can you search some other event on March 1ST.",
+            "Can you tell me something more about this event.",
+            "That is perfect.",
+            "No, that is okay."
+        ],
+        "system_utterance": [
+            "You can say Music or Sports like any particular category and any particular city i should search in?",
+            "The event is on March 13th beginning at 8:30 pm and event name is Portland Thorns Vs Houston taking place at Providence Park.",
+            "The event is football event.",
+            "I searched 2 events for you. One of the event is Timbers Vs Earthquakes is on today taking place at Providence park at 8 pm.",
+            "This is a football event.",
+            "you need event tickets?",
+            "Have a wonderful day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00034",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Washington D.C.",
+                    "date": "2019-03-09",
+                    "event_name": "Carbon Leaf",
+                    "number_of_seats": "4"
+                }
+            }
+        },
+        "user_utterance": [
+            "Is there any interesting events you can find for me?",
+            "I am looking for games events near the District of Columbia",
+            "Can you tell me more about this event?",
+            "That sounds good, but can you find me other events that take place on the 9th of this month?",
+            "What is the address of the event, and can you tell me more about it?",
+            "On second thought, can you find me music events instead?",
+            "Sounds great, just what I am into.",
+            "Yes, please buy me tickets for the event.",
+            "Buy me 4 tickets to the event.",
+            "That is correct, can you give me the event address?",
+            "Great, thanks a lot for your help!",
+            "No, that is all, thanks."
+        ],
+        "system_utterance": [
+            "Which city are you looking for events, and what genre do you prefer, such as music or sports events?",
+            "There are 10 events available, one is DC United VS Revolution occurring tomorrow at 8:30 pm at Audi Field.",
+            "This event is a football match.",
+            "There are 7 events occurring on March 9th, the El Salvador VS Haiti event at RFK Stadium will occur at 8 pm, would you be interested in that?",
+            "This event is located at 2400 East Capitol Street Southeast, and it is also a football match.",
+            "One event on March 9th at 7:30 pm will take place on Union Stage, would you be interested in the Carbon Leaf event?",
+            "Would you like to buy tickets for the event?",
+            "What amount of tickets would you need?",
+            "You wish to buy 4 tickets to Carbon Leaf, for March 9th in Washington D.C., correct?",
+            "The reservation has been made, and the avenue is located at 740 Water Street Southwest, Washington, District of Columbia 20024, United States.",
+            "Is there anything else I can be of assistance?",
+            "Hope you enjoy the event, have a great day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00035",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "New York",
+                    "date": "2019-03-01",
+                    "event_name": "Mets Vs Braves",
+                    "number_of_seats": "1"
+                }
+            }
+        },
+        "user_utterance": [
+            "I feel like doing something fun today. Can you see if there's anything cool on?",
+            "Somewhere close to New York City",
+            "Something Sports related I think. Can you see if there's any Baseball games?",
+            "Maybe.. can you grab me the address?",
+            "Yeah that one sounds good",
+            "Yes please!",
+            "4 please",
+            "Actually, make it just one ticket",
+            "Yes please, that would be great",
+            "Thank you!",
+            "Nothing else, thank you"
+        ],
+        "system_utterance": [
+            "I sure can. Where do you want me to look?",
+            "Okay, what type of thing do you feel like doing?",
+            "Okay well I've found 10. There's a Mets Vs Braves game today in Citi Field, it starts at 7:30 pm. How does that sound?",
+            "Sure! It's at 123-01 Roosevelt Avenue.",
+            "Do you want me to get you tickets?",
+            "How many do you want me to book?",
+            "Okay, just to confirm that you're happy for me to book 4 tickets to the Mets Vs Braves game today in New York?",
+            "Okay. So are you happy for me to book 1 ticket to the game today?",
+            "Excellent, all booked for you.",
+            "Anything else I can help with?",
+            "Great, enjoy the game!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00036",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Phoenix",
+                    "date": "2019-03-10",
+                    "event_name": "Anberlin",
+                    "number_of_seats": "3"
+                }
+            }
+        },
+        "user_utterance": [
+            "Will you find me some events around Phoenix, AZ?",
+            "Music.",
+            "Any details on the event? What's the address?",
+            "Sounds good.",
+            "Yes, please.",
+            "Three tickets.",
+            "Yes, that's great.",
+            "Thanks.",
+            "No, thanks."
+        ],
+        "system_utterance": [
+            "What category?",
+            "Anberlin at The Van Buren on March 10th at 7:30 pm.",
+            "It's a Rock event at 401 West Van Buren Street.",
+            "Do you want to buy tickets?",
+            "How many?",
+            "Please confirm 3 tickets for Anberlin on March 10th in Phoenix.",
+            "I've made your reservation. Enjoy.",
+            "Anything else?",
+            "Have a wonderful day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00037",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "New York",
+                    "date": "2019-03-10",
+                    "event_name": "Harlem Gospel Choir",
+                    "number_of_seats": "3"
+                }
+            }
+        },
+        "user_utterance": [
+            "I am looking for music events.",
+            "I want something around New York.",
+            "That's good. What else is going on? I like Christian music and I'd like something on the 10th.",
+            "What's the address for that hall?",
+            "That's great. I want to reserve tickets.",
+            "I want to reserve 2 please.",
+            "Sorry, please make that 3 tickets.",
+            "Yes, that's it.",
+            "Thanks. That's all I needed."
+        ],
+        "system_utterance": [
+            "What city should I look in?",
+            "I have 10 events you might like. How about Amber Run Brooklyn at Warsaw? That's happening March 14th at 6 pm.",
+            "The Harlem Gospel Choir is at Sony Hall on March 10th at 7:30 pm.",
+            "The street address is 235 West 46th Street.",
+            "How many tickets?",
+            "Confirming: You are reserving 2 tickets for Harlem Gospel Choir in New York on March 10th.",
+            "Confirming: you are reserving 3 tickets for your event in New York.",
+            "Your reservation is confirmed. Have a great time!",
+            "Have a good day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00038",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "San Francisco",
+                    "date": "2019-03-13",
+                    "event_name": "Celine Dion",
+                    "number_of_seats": "4"
+                }
+            }
+        },
+        "user_utterance": [
+            "I'm looking to find some events.",
+            "I'm looking for Music events near SFO.",
+            "Please give me more details about this event.",
+            "Where is the event located?",
+            "This is great but can you search for something else?",
+            "Please can you search for something else.",
+            "Perfect",
+            "Yes please.",
+            "I'd like tickets for three people.",
+            "I'd like 4 tickets.",
+            "Yes please.",
+            "Thanks, I don't need anything else right now."
+        ],
+        "system_utterance": [
+            "What kind of events are you looking for and where should I search? For example you can say Music or Sports.",
+            "I have found 10 events which fit your criteria. There is an event happening on the March 9th at 6 pm called Allan Rayman at August Hall.",
+            "This is a Hip Hop event.",
+            "The address is 420 Mason Street.",
+            "I have found an event called Carmina Burana on March 12th at 8:30 pm at San Francisco Symphony.",
+            "How about Celine Dion at Chase Center Experience? This is taking place at 8:30 pm on March 13th.",
+            "Would you like tickets?",
+            "How many people will be going?",
+            "Okay so to confirm: You would like 3 tickets to Celine Dion in San Francisco on March 13th.",
+            "Ok so that's 4 tickets to Celine Dion.",
+            "Your ticket booking has been confirmed. I hope you have a great time.",
+            "Enjoy your day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00039",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Anaheim",
+                    "date": "2019-03-08",
+                    "event_name": "Brown Sabbath",
+                    "number_of_seats": "2"
+                }
+            }
+        },
+        "user_utterance": [
+            "I am looking for some interesting events?",
+            "search for events around Anaheim, CA.",
+            "Search for Music events.",
+            "Ca you find the address of the venue?",
+            "Can you find me more information on the event?",
+            "Okay, That sounds good to me.",
+            "I want make a reservation for 3 tickets.",
+            "No. Book only 2 tickets for me.",
+            "Yes, that sounds good to me.",
+            "That will be all. Thank you."
+        ],
+        "system_utterance": [
+            "DO you have a preference on city?",
+            "DO you a preferred category of events like Music or Sports or anything else?",
+            "There is 1 event called Brown Sabbath at Crossroads at House of Blues Anaheim on next Friday at 7 pm.",
+            "The address of the venue is 1530 Disneyland Monrail System.",
+            "yes, The event is a Funk event.",
+            "Is there anything else I can help you with?",
+            "Please confirm: You want me to make a reservation for 3 tickets for next Friday for the event Brown Sabbath in Anaheim.",
+            "Please confirm the details again: You want me to make a reservation for 2 tickets on next Friday.",
+            "Your reservation is made successfully. Have a nice time.",
+            "I am glad I could help. Have a nice day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00040",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "New York",
+                    "date": "2019-03-02",
+                    "event_name": "Americo",
+                    "number_of_seats": "1"
+                }
+            }
+        },
+        "user_utterance": [
+            "I want to go out and do something. Do you know if there's anything fun going on?",
+            "I'm in New York and I would love to see a Concert tomorrow.",
+            "Perfect. Can you buy me some tickets to that concert?",
+            "I'd like tickets for me and two of my friends, so three in total.",
+            "Actually, I don't think my friends are big Americo fans, so I'll just get one ticket.",
+            "That is correct.",
+            "Thank you very much.",
+            "That's all, thanks."
+        ],
+        "system_utterance": [
+            "What kind of activity are you looking for? Also, what city are you in?",
+            "There are 10 concerts near New York tomorrow. One of them is Americo which is at La Boom at 7 pm.",
+            "Sure. How many do you want?",
+            "You want 3 tickets to see Americo tomorrow in New York. Is that correct?",
+            "So you want jut 1 ticket to see Americo tomorrow?",
+            "I have bought your ticket. Have fun at the concert!",
+            "Do you need assistance with anything else?",
+            "Enjoy the rest of your day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00041",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Vancouver",
+                    "date": "2019-03-03",
+                    "event_name": "Billy Idol",
+                    "number_of_seats": "3"
+                }
+            }
+        },
+        "user_utterance": [
+            "Find some interesting event for Sunday this week.",
+            "I would like to see some concert events",
+            "I like Rock concerts, lookig for something around Vancouver",
+            "Can you give me the address of it?",
+            "That is good",
+            "yes please three for me",
+            "yes, thats right",
+            "Thansk for the help",
+            "No, that would be it"
+        ],
+        "system_utterance": [
+            "Should i check anything in particular like Music or sports or something else?",
+            "Any city to look into?",
+            "There is a Billy Idol concert at 6:30 pm on day after tomorrow at PNE amphitheatre",
+            "The location is 2901 East Hastings street",
+            "Should i buy tickets",
+            "Please confirm: 3 tickets for Billy Idol concert on day after tomorrow at Vancouver",
+            "Done, your booking is complete! enjoy",
+            "Any thing else?",
+            "Have a good day!!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00042",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "San Diego",
+                    "date": "2019-03-13",
+                    "event_name": "Aly And Aj",
+                    "number_of_seats": "4"
+                }
+            }
+        },
+        "user_utterance": [
+            "Hello! How are you doing? I am wondering if you can find some interesting events for me?",
+            "Please let me know if any Concert events shooting up around San Diego.",
+            "Looks pretty good. But wondering if any other events also available like Pop events?",
+            "Fabulous! Do you have the address where its happening?",
+            "Sounds great. Please can you reserve 4 tickets for this event.",
+            "Yup! that would work.",
+            "Thanks for helping me with this reservation. You made my day."
+        ],
+        "system_utterance": [
+            "Not bad! am good. Do you prefer Music or Sports events? Where you wish to look for?",
+            "Yup! The event, Alejandro Sanz is coming up on next Wednesday at Cal Coast Credit Union Amphitheater and it would start at 6:30 pm.",
+            "Okay! Let me look for your taste... Hey! there is an event Aly And Aj on March 13th taking place at The Observatory North Park and the event would start at 6:30 pm.",
+            "Yup! It will be taking place at 2891 University Avenue.",
+            "Sure, I can do that for you. Your reservation will be for the event Aly And Aj on March 13th that's going to be conducted in San Diego and the reservation is for 4 people. Please can you confirm me the above details are correct?",
+            "Your reservation is successful. Have a nice time at the event.",
+            "It's my pleasure. Have a fantastic day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00043",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "San Diego",
+                    "date": "2019-03-02",
+                    "event_name": "Padres Vs Brewers",
+                    "number_of_seats": "3"
+                }
+            }
+        },
+        "user_utterance": [
+            "I am looking for events.",
+            "I am looking for a concert any day around SD.",
+            "That is good, but what else is available?",
+            "That is good, but I actually want to go to a sports event.",
+            "That is perfect. I want to purchase tickets.",
+            "I want four tickets please.",
+            "I actually want 3 tickets.",
+            "That is perfect.",
+            "What is the address?",
+            "Thank you, that will be all."
+        ],
+        "system_utterance": [
+            "In which city are you looking for events? What kind of events are you looking for?",
+            "I found 10 events including a concert by Alejandro Sanz at Cal Coast Credit Union Amphitheater next Wednesday at 6:30 pm.",
+            "There is a concert by Aly and AJ at The Observatory North Park on March 13th at 6:30 pm.",
+            "There are 4 sports events including a Padres vs Brewers game at Petco Park tomorrow at 8:30 pm.",
+            "How many tickets do you need?",
+            "Please confirm you want 4 tickets to the Padres vs Brewers game tomorrow in San Diego.",
+            "Please confirm you need 3 tickets to your event in San Diego.",
+            "The tickets have been purchased. Have fun!",
+            "The stadium is located at 100 Park Boulevard.",
+            "See you soon!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00044",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Stanford",
+                    "date": "2019-03-08",
+                    "event_name": "Cardinal Vs Fighting Irish",
+                    "number_of_seats": "3"
+                }
+            }
+        },
+        "user_utterance": [
+            "Hey, can you help me find some events to go to?",
+            "I'm looking for things to do around Philly.",
+            "How about games? Would that work?",
+            "Could you look for some other games? I do like American football, so that's a good start - can you find some around Stanford?",
+            "Where is the game happening?",
+            "Alright, maybe - what other games are there?",
+            "I know you said it already but I forgot, what's the address of the stadium>",
+            "Alright, cool, yeah.",
+            "Yeah, can you get me 1 ticket?",
+            "Actually, can you get me 3 tickets instead?",
+            "Yeah, that's it.",
+            "Thanks, I'm looking forward to it."
+        ],
+        "system_utterance": [
+            "Sure, what city would you like to look in?",
+            "What kind of event are you looking for? If you want to specify, you can say something like Music or Sports.",
+            "Of course: There is an Eagles Vs Cowboys game at Lincoln Financial Field on March 14th at 8 pm - how does that sound?",
+            "How about the Cardinal Vs Ducks game at Stanford Stadium the day after tomorrow? It starts around 6:30 pm.",
+            "The address is 625 Nelson Road.",
+            "How about Cardinal Vs Fighting Irish at Stanford Stadium, 6 pm next Friday?",
+            "No problem: 625 Nelson Road.",
+            "Would you like to get tickets?",
+            "To review: You would like 1 ticket for the Cardinal Vs Fighting Irish game next Friday in Stanford?",
+            "Alright, so you'd like 3 tickets for the game next Friday?",
+            "Alright, your tickets have been purchased - have a good time.",
+            "Have a good day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00045",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "New York",
+                    "date": "2019-03-14",
+                    "event_name": "Amber Run Brooklyn",
+                    "number_of_seats": "1"
+                }
+            }
+        },
+        "user_utterance": [
+            "I'm looking for something to do this weekend. Can you help me find some interesting events?",
+            "I like Music events and concerts.",
+            "I'm looking for shows around DC.",
+            "That might work. Can you help me find some more events? Let's search for any events going on around New York.",
+            "Okay, that sounds great.",
+            "Yes, let's get the tickets.",
+            "I just need 1 ticket.",
+            "Yes, that's great. What's the address of the venue?",
+            "Okay awesome! Thanks for your help, that's it for now."
+        ],
+        "system_utterance": [
+            "Is there any certain category you're looking for?",
+            "What city should I search in?",
+            "Okay, I've found 5 events you might like. One is Carbon Leaf, which is playing at Union Stage. It's on March 11th at 7 pm.",
+            "I found the Amber Run Brooklyn, which is in Warsaw. It's playing on March 14th at 6 pm.",
+            "Do you want me to buy the tickets for this event?",
+            "Okay, how many tickets do you want?",
+            "Okay, let's confirm the details: You're buying 1 ticket for Amber Run Brooklyn on March 14th in New York. Is that correct?",
+            "I've made your reservation. The address is 261 Driggs Avenue, Brooklyn.",
+            "Have a great day!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00046",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Phoenix",
+                    "date": "2019-03-01",
+                    "event_name": "Arizona Vs La Dodgers",
+                    "number_of_seats": "2"
+                }
+            }
+        },
+        "user_utterance": [
+            "I am looking for some interesting events.",
+            "Find me some Games events around Phoenix.",
+            "Okay, That sounds good to me. Can you help me in buying 2 tickets for the event?",
+            "Yes, That sounds great to me. Can you find me the address of the venue?",
+            "Okay. Thank you very much.",
+            "No.That will be all. Thank you."
+        ],
+        "system_utterance": [
+            "Which city should i look in and what is your preferred category?",
+            "There are 10 events, One is called Arizona Vs La Dodgers which will be taking place at Chase Field today at 6 pm.",
+            "Please confirm: You want me to buy 2 tickets of the event Arizona Vs La Dodgers in Phoenix for today.",
+            "Your tickets has been booked and confirmed successfully and the address for the venue is 401 East Jefferson Street.",
+            "Is there anything else I can help you with?",
+            "I am glad I could help you. Have a nice day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00047",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "New York",
+                    "date": "2019-03-05",
+                    "event_name": "Amber Run Brooklyn",
+                    "number_of_seats": "2"
+                }
+            }
+        },
+        "user_utterance": [
+            "I'm looking for Music events, something interesting.",
+            "Please look in Vancouver, BC.",
+            "That sound good. Actually, can you look for things to do in New York City on the 5th of this month.",
+            "What's the address for that, can you give me more info about it?",
+            "That's really cool. Reserve me 3 tickets for it.",
+            "Wait, no. I only want 2 tickets.",
+            "Yeah, that would be great.",
+            "Thanks so much.",
+            "No, thanks again for the help."
+        ],
+        "system_utterance": [
+            "What city do you want me to look in?",
+            "There are 6 events that you might enjoy. There's Billy Idol at PNE Amphitheatre on the day after tomorrow at 6:30 pm.",
+            "There are 10 events you might enjoy. There's the Amber Run Brooklyn in Warsaw next Tuesday at 7:30 pm.",
+            "The address is 261 Driggs Avenue, Brooklyn, and it's a Pop event.",
+            "Just to make sure, you want 3 tickets for Amber Run Brooklyn next Tuesday in New York?",
+            "So it's 2 tickets for next Tuesday.",
+            "I've booked the tickets, have fun at the event!",
+            "Do you need me for anything else?",
+            "Okay, you have a wonderful day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00048",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Yountville",
+                    "date": "2019-03-06",
+                    "event_name": "Todd Rundgren",
+                    "number_of_seats": "4"
+                }
+            }
+        },
+        "user_utterance": [
+            "I'm looking for interesting events.",
+            "I like Music events and am looking for something around Yountville.",
+            "Perfect. Please can I buy tickets.",
+            "I'd like 4 tickets.",
+            "That's correct. What is the address?",
+            "Thanks for your help.",
+            "No thanks."
+        ],
+        "system_utterance": [
+            "What kind of events are you looking for? Where would you like me to search?",
+            "Todd Rundgren is on at Napa Valley Performing Arts Center next Wednesday at 6 pm.",
+            "How many would you like?",
+            "Sure no problem. So for confirmation: You would like 4 tickets to Todd Rundgren at Yountville next Wednesday.",
+            "Your booking has been made successfully. The address is 100 California Drive.",
+            "Do you need help with anything else?",
+            "Enjoy your day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00049",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Los Angeles",
+                    "date": "2019-03-02",
+                    "event_name": "Bill Callahan",
+                    "number_of_seats": "1"
+                }
+            }
+        },
+        "user_utterance": [
+            "Could you assist me in searching for interesting activities, specifically around LAX?",
+            "I enjoy music activities.",
+            "That's lovely. I'd like to book one ticket to the activity.",
+            "Yeah, that's perfect for me.",
+            "Thank you for your assistance; that's all."
+        ],
+        "system_utterance": [
+            "Is there a type of activity you prefer?",
+            "There is a Bill Callahan event that occurs tomorrow 8:30 pm at the Lodge Room.",
+            "Please verify the following information: 1 booking for the Bill Callahan event occurring tomorrow at Los Angeles.",
+            "Your booking is verified. Have fun at the event!",
+            "Have a pleasant afternoon."
+        ]
+    },
+    {
+        "dialogue_id": "7_00050",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Phoenix",
+                    "date": "2019-03-03",
+                    "event_name": "Anberlin",
+                    "number_of_seats": "4"
+                }
+            }
+        },
+        "user_utterance": [
+            "I would like to go to a Concert on the 3rd of March.",
+            "Phoenix.",
+            "Tell me more.",
+            "That sounds awesome.",
+            "Yes, please purchase four tickets.",
+            "That sounds great, what is the address?",
+            "Thanks for your help."
+        ],
+        "system_utterance": [
+            "What city?",
+            "I found 4 events. First, is Anberlin at The Van Buren. It takes place the day after tomorrow at 8 pm.",
+            "It is a Rock concert.",
+            "Should I buy tickets?",
+            "Please confirm; 4 tickets to Anberlin at The Van Buren in Phoenix. It takes place the day after tomorrow at 8 pm.",
+            "Reservation is confirmed. The address is 401 West Van Buren Street.",
+            "Have a nice day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00051",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "New York",
+                    "date": "2019-03-13",
+                    "event_name": "Mets Vs Braves",
+                    "number_of_seats": "2"
+                }
+            }
+        },
+        "user_utterance": [
+            "I just got my first paycheck and I want to do something to celebrate. Can you help me find some kind of an event or activity to do?",
+            "Yes, NY so that is is close to my apartment in case I have a few drinks.",
+            "I really enjoy most sports events because I use to watch them with my dad growing up.",
+            "Maybe, what is the locations address?",
+            "Okay, that sounds like something I may be interested i.",
+            "Yes, I definitely would like tickets to that game.",
+            "I'm going to take a few people so 3 tickets.",
+            "No, I'm sorry, I only want 2 tickets.",
+            "Yes, that sounds great. I can't wait.",
+            "Thank you so much, you made that extremely easy."
+        ],
+        "system_utterance": [
+            "Yes, I can help you with that. Is there a particular area or city where you like me to narrow my search down to?",
+            "No problem, why type of events are you interested in?",
+            "The Mets Vs Braves game will be at Citi Field on March 13th beginning at 6 pm. Does that sound like something that would interest you?",
+            "The address is 123-01 Roosevelt Avenue.",
+            "Would you like me to purchase tickets for you to this game?",
+            "Okay, how many tickets will you need?",
+            "Great, before I confirm this ticket order for you can you please confirm that you want 3 tickets to the Mets Vs Braves game, taking place on March 13th, in New York.",
+            "Okay, I have changed it to 2 tickets to the game on March 13th. Is that correct?",
+            "I've went ahead and confirmed that reservation for you. Have fun at the game!",
+            "It was my pleasure, have a great day!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00052",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Stanford",
+                    "date": "2019-03-08",
+                    "event_name": "Cardinal Vs Fighting Irish",
+                    "number_of_seats": "4"
+                }
+            }
+        },
+        "user_utterance": [
+            "I'd like to go out to see an interesting event in Stanford.",
+            "I'd like to see an American Football match.",
+            "I'd prefer something else.",
+            "I like the sound of that, I'd like 4 tickets.",
+            "Yes, that sounds good.",
+            "What's the venue address?",
+            "Thanks a lot.",
+            "No, that's all for now, thanks."
+        ],
+        "system_utterance": [
+            "What kind of event? Music, sports, something else?",
+            "I found 3 matches- how about Cardinal Vs Ducks at Stanford Stadium at 6:30 pm the day after tomorrow?",
+            "What about Cardinal Vs Fighting Irish at Stanford Stadium, happening next Friday at 6 pm?",
+            "So to confirm, I'll book 4 tickets for the Cardinal vs Fighting Irish match in Stanford next Friday. Is that okay?",
+            "The reservation is confirmed. Enjoy!",
+            "It's 625 Nelson Road.",
+            "Anything else I can help you with?",
+            "Have a great day!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00053",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Chicago",
+                    "date": "2019-03-06",
+                    "event_name": "Cubs Vs Brewers",
+                    "number_of_seats": "1"
+                }
+            }
+        },
+        "user_utterance": [
+            "I'm planning a day out, can you help me find something cool to go to?",
+            "Can you see if there's anything in Chi-town?",
+            "I think a sports event would be cool. Can you see if there's are Baseball games?",
+            "Where is Wrigley Field?",
+            "Okay yeah, can you book me three tickets?",
+            "Actually can you make it just the one ticket?",
+            "Yes please!",
+            "Thank you, I hope so too!",
+            "No thanks"
+        ],
+        "system_utterance": [
+            "Sure, where would you like me to look?",
+            "Okay, and what type of thing do you feel like doing? I can look at music, sports, or whatever else you want.",
+            "I've found a Cubs Vs Brewers game next Wednesday at 6:30 pm. It's at Wrigley Field. How does that sound?",
+            "It's at 1060 West Addison Street",
+            "Sure. Are you happy for me to book 3 tickets to the Cubs Vs Brewers in Chicago next Wednesday?",
+            "No problem. So are you happy for me to book 1 ticket for the game next Wednesday?",
+            "All booked for you! I'm sure it'll be a great game.",
+            "Anything else I can do for you?",
+            "Cool, have a great day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00054",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Atlanta",
+                    "date": "2019-03-01",
+                    "event_name": "Falcons Vs Jaguars",
+                    "number_of_seats": "4"
+                }
+            }
+        },
+        "user_utterance": [
+            "Can you find me some Match events on the 1st?",
+            "Search me the event in Atlanta, GA.",
+            "Can you find me the address of the venue?",
+            "Okay. That sounds good to me. Can you help me in reserving one ticket for the event?",
+            "No. Please make it four tickets.",
+            "Yes, That sounds great to me.",
+            "That will be all. Thank you."
+        ],
+        "system_utterance": [
+            "Which city should I search in?",
+            "There are 8 events, One is called Falcons Vs Jaguars which will take place at Mercedes-Benz Stadium today at 8 pm.",
+            "The address of the venue is 1 AMB Drive Northwest.",
+            "Please confirm: You want me to reserve 1 ticket for the event Falcons Vs Jaguars for today which is taking place in Atlanta.",
+            "Please confirm the details again: You want me to book 4 tickets for today 's event.",
+            "Your reservation is made and confirmed successfully. Have fun.",
+            "I am glad I could help. Have a nice day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00055",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Toronto",
+                    "date": "2019-03-13",
+                    "event_name": "Blue Jays Vs Astros",
+                    "number_of_seats": "2"
+                }
+            }
+        },
+        "user_utterance": [
+            "Could you help in finding interesting events?",
+            "I wish to watch Match events around Toronto, Canada.",
+            "It is good.",
+            "I wish to book tickets for that event.",
+            "I need one ticket.",
+            "Nope. I need two tickets.",
+            "Yes. It is good for me. May I know the contact address of the venue?",
+            "Thank you so much. That is what I want."
+        ],
+        "system_utterance": [
+            "In which city should I search in? What is your preferred event category?",
+            "On March 13th, the event Blue Jays Vs Astros at Rogers Centre at 6:30 pm.",
+            "Do you need any help today?",
+            "How many tickets do you need?",
+            "Kindly ensure that, On March 13th, 1 ticket has been booked for the event Blue Jays Vs Astros at Rogers Centre, Toronto at 6:30 pm.",
+            "Kindly ensure that, 2 tickets have been booked for the event on March 13th.",
+            "Your booking has been confirmed. The event venue is 1 Blue Jays Way. Enjoy the event.",
+            "Have a fantastic day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00056",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Atlanta",
+                    "date": "2019-03-09",
+                    "event_name": "Falcons Vs Rams",
+                    "number_of_seats": "1"
+                }
+            }
+        },
+        "user_utterance": [
+            "I'm kind of bored, would you help me to find a Match event?",
+            "Yes, look in Atlanta, GA.",
+            "These are not bad but please, keep looking, see what's on on March 9th.",
+            "Where is the Mercedes-Benz Stadium? Give me more info about the event itself.",
+            "I got it. Mmmmm, have another look for American Football events.",
+            "I would like to join the audience.",
+            "Yes, do it now.",
+            "One ticket is enough.",
+            "Yes, it's what I've said. Where do I have to go to see the event?",
+            "Thank you for all the information.",
+            "No, that's enough. Thank you."
+        ],
+        "system_utterance": [
+            "Yes, I'd very happy to do it. Do you want me to look for it in a specific area?",
+            "There are 10 events you can pick from. What about Falcons Vs Buccaneers at the Mercedes-Benz Stadium? It will take place next Monday at 7:30 pm.",
+            "You can be part of Falcons Vs Jaguars at the Mercedes-Benz Stadium on March 9th at 6 pm.",
+            "The address is 1 AMB Drive Northwest and the event is American Football.",
+            "There's Falcons Vs Rams at the Mercedes-Benz Stadium on March 9th at 6:30 pm.",
+            "I buy tickets for you if you want.",
+            "How many do you need?",
+            "Confirm me your request. You want to buy 1 ticket for Falcons Vs Rams on March 9th that will happen in Atlanta.",
+            "The tickets have been bought. You need to go to 1 AMB Drive Northwest.",
+            "Glad I could have helped you. Can I do more?",
+            "Have a good day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00057",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Toronto",
+                    "date": "2019-03-08",
+                    "event_name": "Toronto Fc Vs Crew",
+                    "number_of_seats": "3"
+                }
+            }
+        },
+        "user_utterance": [
+            "I want to find some cool events.",
+            "I want to find football events or games around Toronto, Canada.",
+            "Yes, that sounds good.",
+            "Yes, I want to buy 3 tickets.",
+            "Yes, that sounds good. What's the address?",
+            "Thanks so much. That's all."
+        ],
+        "system_utterance": [
+            "What kind of events are you looking for? What city would you like to look in?",
+            "There is an event next Friday at BMO Field at 8:30 pm. The event is Toronto Fc Vs Crew.",
+            "Would you like to purchase tickets for the event?",
+            "Please confirm: 3 tickets for Toronto Fc Vs Crew next Friday in Toronto.",
+            "The address is 170 Princes' Boulevard. Your reservation has been made.",
+            "Have a good day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00058",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Los Angeles",
+                    "date": "2019-03-02",
+                    "event_name": "Dodgers Vs Giants",
+                    "number_of_seats": "4"
+                }
+            }
+        },
+        "user_utterance": [
+            "I'm looking for some interesting things to do around Los Angeles this Saturday, know of anything?",
+            "I'm looking to watch a Match.",
+            "That sound good, but what else is there?",
+            "That's interesting, are there any other Baseball events.",
+            "That sounds perfect. Can you book me tickets.",
+            "I need four tickets.",
+            "Yeah, that's right. Can you give me the address of the stadium?",
+            "Thanks so much.",
+            "No, thanks again."
+        ],
+        "system_utterance": [
+            "Do you have a preference, for example Music, Sports, or anything else?",
+            "There are 7 events that you'd probably like. There's the Dodgers vs Cubs at Dodger Stadium tomorrow at 8 pm.",
+            "There's the Dodgers Vs Diamondbacks at Dodger Stadium tomorrow at 8 pm.",
+            "There's the Dodgers Vs Giants at Dodger Stadium tomorrow at 7:30 pm.",
+            "How many tickets do you need?",
+            "Okay, so it'll be 4 ticket for Dodgers Vs Giants tomorrow in Los Angeles, is that right?",
+            "The Address is 1000 Vin Scully Ave. I've booked your ticket, have a great time at the game!",
+            "Do you need anything else from me?",
+            "Have a wonderful day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00059",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "New York",
+                    "date": "2019-03-02",
+                    "event_name": "Mets Vs Cubs",
+                    "number_of_seats": "4"
+                }
+            }
+        },
+        "user_utterance": [
+            "Could you assist me in looking for interesting activities? I'm alright with any category.",
+            "I am searching for event near Toronto. I enjoy games events.",
+            "That's fine. But could you get me alternative events? I'm searching for those near New York.",
+            "Can you tell me the event's address?",
+            "That's fine. But could you look for alternative events for me?",
+            "That sounds lovely.",
+            "Yeah, I'd like three tickets for this event.",
+            "Nope; I'd like 4 tickets.",
+            "Yeah, that's perfect for me.",
+            "Can you tell me the event's address?",
+            "Thank you for your assistance.",
+            "Nope; thank you for your assistance."
+        ],
+        "system_utterance": [
+            "Is there a specific metropolis you want me to look in? Do you prefer any specific type? You can say Music, sports, or something else.",
+            "There is a Blue Jays vs Astros event occuring on March 13th 6:30 pm at Rogers Centre.",
+            "I discovered 10 events you may enjoy. There is a Mets Vs Braves activity occuring on March 13th 6 pm at Citi Field.",
+            "The address is 123-01 Roosevelt Avenue.",
+            "There is a Mets vs Cubs event occurring on 7:30 pm tomorrow at citi Field.",
+            "Would you like to purchase tickets for this activity?",
+            "Please verify the following information: 3 tickets for the Mets Vs cubs event for tomorrow in New York.",
+            "Please verify the following information: 4 tickets booked for the event at tomorrow.",
+            "Your booking is complete. Have fun in the event!",
+            "The address is 123-01 Roosevelt Avenue.",
+            "Could I assist you you with something else?",
+            "Have a pleasant afternoon."
+        ]
+    },
+    {
+        "dialogue_id": "7_00060",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Philadelphia",
+                    "date": "2019-03-03",
+                    "event_name": "Don Broco",
+                    "number_of_seats": "4"
+                }
+            }
+        },
+        "user_utterance": [
+            "I like Match events: can you help me find an event around Philly?",
+            "What is the adress?",
+            "Do you have other event proposals?",
+            "What kind of event is it? What is the address of the place?",
+            "OK it's good. Now I would like to find another type of event, a Music event for this Sunday",
+            "Perfect! I want a ticket for this event!",
+            "We are 4 people: 4 tickets",
+            "Yes, I confirm! Which way is the event?",
+            "Thank you very much! It's all"
+        ],
+        "system_utterance": [
+            "There's Eagles Vs Cowboys at Lincoln Financial Field on March 14th at 8 pm",
+            "1 Lincoln Financial Field Way",
+            "Of course! Owls Vs Bison, at Lincoln Financial Field, on day after tomorrow at 7:30 pm",
+            "It's a American Football event. The address is 1 Lincoln Financial Field Way",
+            "For day after tomorrow there's Don Broco at The foundry at 8 pm",
+            "A ticket for how many people?",
+            "4 tickets for Don Broco, in Philadelphia, for day after tomorrow: do you confirm?",
+            "It's in 29 East Allen Street 2nd Floor. Your reservation is confirmed",
+            "Have a good day"
+        ]
+    },
+    {
+        "dialogue_id": "7_00061",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Philadelphia",
+                    "date": "2019-03-14",
+                    "event_name": "Eagles Vs Cowboys",
+                    "number_of_seats": "4"
+                }
+            }
+        },
+        "user_utterance": [
+            "I want to find some events I prefer to be from Games.",
+            "Around Philly would be perfect.",
+            "Sounds perfect for me.",
+            "I want to buy 3 tickets.",
+            "No, it would be better if you bought four.",
+            "Ye is good for me .Tel me the address of the venue.",
+            "That's all I needed now. Thanks for everything."
+        ],
+        "system_utterance": [
+            "Do you have any preference in what city to be?",
+            "Eagles Vs Cowboys is take place at Lincoln Financial Field on March 14th at 8 pm.",
+            "Would you like to buy tickets to him?",
+            "Buy 3 tickets at event Eagles Vs Cowboys on March 14th in Philadelphia?",
+            "You want 4 tickets at event in Philadelphia.Is that correct?",
+            "Tickets are bought.1 Lincoln Financial Field Way is the venue located.",
+            "Have a good day!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00062",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "New York",
+                    "date": "2019-03-09",
+                    "event_name": "Low",
+                    "number_of_seats": "2"
+                }
+            }
+        },
+        "user_utterance": [
+            "Are there interesting events around London, UK? I wish enjoy some events.",
+            "Actually I am fond of Rock. But I wish I could enjoy Concert events on later today.",
+            "Are there any events on March 9th around NYC?",
+            "Where is the venue located?",
+            "Thats fine, any other events.",
+            "That will do. please reserve tickets.",
+            "Please book 4 seats.",
+            "No. please book for two tickets only.",
+            "Great. thats right.",
+            "Great help, thank you.",
+            "No thats all. Thank you."
+        ],
+        "system_utterance": [
+            "Which type of event will make you happy, Music, Sports, etc?",
+            "2 such events await you. If you like you can enjoy Beyond the Black at Boston Music Room on today at 7:30 pm.",
+            "Yes, 2 events will be there. One is at 7:30 pm at Forest Hills Stadium on March 9th, the jethro Tull",
+            "It is at 1 Tennis Place, Forest Hills.",
+            "At Murmrr, Low will be presents March 9th at 6 pm",
+            "How many persons sir?",
+            "Please confirm, 4 tickets for Low, on March 9th in New York.",
+            "Ok, then you need 2 tickets on March 9th.",
+            "Your seats confirmed. Enjoy it at 17 Eastern parkway, Brooklyn.",
+            "Do you need any other service?",
+            "Make your day memorable. See you."
+        ]
+    },
+    {
+        "dialogue_id": "7_00063",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "Phoenix",
+                    "date": "2019-03-13",
+                    "event_name": "Diamondbacks Vs Brewers",
+                    "number_of_seats": "1"
+                }
+            }
+        },
+        "user_utterance": [
+            "Hey, I'm bored. Can you help me find some inter sting events?",
+            "Sports events on Phoenix, AZ please.",
+            "Sounds good, but do you know of any other event?",
+            "Seems good, but do you have anything else?",
+            "Sounds amazing. I love it.",
+            "Please do.",
+            "Just one, please.",
+            "Yes, that's it.",
+            "What's their address?",
+            "Thanks a lot. That's all."
+        ],
+        "system_utterance": [
+            "In which city? Are you looking for a specific type of event?",
+            "I found 10 you may enjoy. There's a Arizona Vs La Dodgers at Chase Field today. Starts at 6 pm.",
+            "There's a Arizona Vs Milwaukee game at Chase Field on March 9th that starts at 8 pm.",
+            "There's Diamondbacks Vs Brewers at Chase Field on March 13th that starts at 6 pm.",
+            "Should I buy the tickets?",
+            "How many tickets?",
+            "So you want 1 ticket to Diamondbacks Vs Brewers on March 13th in Phoenix?",
+            "Your reservation was successful. Enjoy!",
+            "401 East Jefferson Street.",
+            "Have an amazing day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00064",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "New York",
+                    "date": "2019-03-06",
+                    "event_name": "Americo",
+                    "number_of_seats": "3"
+                }
+            }
+        },
+        "user_utterance": [
+            "Can you look up some events for me?",
+            "I'm looking for concerts or music venues in New York.",
+            "Maybe - what else is there?",
+            "Where is the venue located? What kind of event is it?",
+            "Sure, let's get tickets.",
+            "I'll be in a group of three.",
+            "Yeah, that's right.",
+            "Thanks, that's all I need."
+        ],
+        "system_utterance": [
+            "What city should I find events in, and what type are you looking for?",
+            "I've found 10 options for you to start with: Amber Run Brooklyn is playing on March 14th at Warsaw, at 6 pm.",
+            "How about Americo next Wednesday at La Boom? The show starts at 6:30 pm.",
+            "You can find it at 56-15 Northern Boulevard, Woodside - it is considered an International event.",
+            "How many people will be in your group?",
+            "So you'd like to get 3 tickets to Americo for the show next Wednesday in New York?",
+            "You've got tickets! Have a great time.",
+            "Have a good day."
+        ]
+    },
+    {
+        "dialogue_id": "7_00065",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "New York",
+                    "date": "2019-03-14",
+                    "event_name": "Amber Run Brooklyn",
+                    "number_of_seats": "2"
+                }
+            }
+        },
+        "user_utterance": [
+            "Please help me find some interesting events.",
+            "Please look in NY.",
+            "Please look for a concert.",
+            "Please give me more details and what is the location of this venue?",
+            "That sounds perfect.",
+            "Yes please purchase tickets.",
+            "Please purchase 3 tickets.",
+            "No, change that to two tickets.",
+            "Yes, that is perfect.",
+            "Thank you for your help.",
+            "No, thank you."
+        ],
+        "system_utterance": [
+            "Is there a particular city you would like me to search?",
+            "Is there a certain type of event like music or sports?",
+            "Amber Run Brooklyn is playing at the Warsaw on March 14th at 6 pm.",
+            "It is a pop concert and located at 261 Driggs Avenue, Brooklyn,",
+            "would you like to buy tickets?",
+            "How many tickets would you like to purchase?",
+            "I have 3 tickets for Amber Run Brooklyn in New York on March 14th.",
+            "I have 2 tickets for Amber Run Brooklyn in New York on March 14th.",
+            "Your ticket purchase is confirmed. Enjoy the event!",
+            "May I assist you with anything further today?",
+            "Have a great day!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00066",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "San Diego",
+                    "date": "2019-03-02",
+                    "event_name": "Padres Vs Brewers",
+                    "number_of_seats": "2"
+                }
+            }
+        },
+        "user_utterance": [
+            "Find me some interesting events.",
+            "Yes, San Diego please",
+            "I want Match events",
+            "Sounds good, get me some tickets please",
+            "3 tickets please",
+            "No, wait make it 2 tickets only",
+            "Yes thats correct, please give the venue details",
+            "Thanks for your help",
+            "No, that would be it"
+        ],
+        "system_utterance": [
+            "Any preferred city to look into?",
+            "Any specific event to search for?",
+            "There is a Padres Vs Brewers match at Petco park starting at 8:30 pm tomorrow.",
+            "How many do you want?",
+            "Please confirm: 3 tickets for Padres Vs Brewers match at Petco park starting at 8:30 pm tomorrow in San Diego.",
+            "Please confirm: 2 tickets for Padres Vs Brewers match.",
+            "Your reservation is complete. The address is 100 park Boulevard",
+            "Anything else that i can help with?",
+            "Have a nice day!!"
+        ]
+    },
+    {
+        "dialogue_id": "7_00067",
+        "service": "Events_1",
+        "service_call": {
+            "method": {
+                "method": "BuyEventTickets",
+                "parameters": {
+                    "city_of_event": "New York",
+                    "date": "2019-03-14",
+                    "event_name": "Amber Run Brooklyn",
+                    "number_of_seats": "2"
+                }
+            }
+        },
+        "user_utterance": [
+            "Hey! Do you have any events coming up between March 10-15, for I have a couple of days holidays and would prefer to watch if any good events coming up?",
+            "Yup! It would be good to have around NY.",
+            "Is there any Music events coming up?",
+            "Can I get the venue address?",
+            "Sounds good.",
+            "Yup! Please give me two tickets.",
+            "Yup! You're right.",
+            "Thanks for your suggestions and booking.",
+            "Nope, thanks much for your help."
+        ],
+        "system_utterance": [
+            "Let me look for you if there is any upcoming events... Do you have location / city preference?",
+            "Okay! Which events you prefer - Music, Sports or anything else in particular?",
+            "Give me a moment.... I'll look for it. In our calendar we have 10 events of your choice but happening at different dates. The one matching your date is the event Amber Run Brooklyn that's going to be held at Warsaw on March 14th at 6 pm.",
+            "Ofcourse. Please note it down. It's in 261 Driggs Avenue, Brooklyn.",
+            "Any plan to buy tickets for the event?",
+            "Please confirm me that you wish to watch the event Amber Run Brooklyn that's going to take place on March 14th in New York and you will need 2 tickets for the event. Am I right?",
+            "Have a nice time at the event. Your booking is successful.",
+            "Do you want to look for any other events?",
+            "Have a nice day."
+        ]
+    }
+]
